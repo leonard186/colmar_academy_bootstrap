@@ -1,0 +1,87 @@
+/*universal style*/
+
+img {
+
+}
+
+.big-image {
+  padding: 2.5rem 2rem;
+}
+
+/*header*/
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+header .container-fluid {
+  width:100%;
+}
+.navbar-header {
+ display: flex;
+}
+
+.navbar-header a:first-child {
+  display: flex;
+}
+
+.navbar-header span:nth-child(1n+0){
+  padding: 0 0.5rem;
+}
+
+#mobile-view {
+  display: none;
+}
+
+        /* responsive */
+@media only screen and (max-width: 768px) {
+
+#desktop-view {
+  display: none;
+}
+
+#mobile-view {
+  display: block;
+  text-align: center;
+}
+
+#mobile-view .navbar-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+}
+
+/*presentation*/
+
+.wrap {
+  max-width: 40rem;
+  margin: 2rem;
+}
+
+#presentation {
+  margin-top: 5rem;
+}
+
+#presentation .row div:nth-child(1n+0) {
+  padding: 0;
+}
+
+#presentation .container-fluid {
+  display: flex;
+  justify-content: center;
+}
+
+#presentation .row {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#presentation h1 {
+  font-size: 5rem;
+}
+
+#presentation p{
+  font-size: 2rem;
+}
