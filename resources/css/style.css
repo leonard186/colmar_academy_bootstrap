@@ -19,6 +19,11 @@ ul {
   height: auto;
 }
 
+img {
+  border-radius: 3px;
+  opacity: 0.95;
+}
+
 /*Header*/
 
 .navbar-brand {
