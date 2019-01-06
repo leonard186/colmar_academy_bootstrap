@@ -8,7 +8,7 @@ UI for a fictional university built with bootstrap
 
 ## Description
 
-Capstone project for the [Build Websites from Scratch course](https://www.codecademy.com/pro/intensive/build-websites-from-scratch?ubv=upgrdsbwa).
+Capstone project for the [Build Websites from Scratch course](https://www.codecademy.com/pro/intensive/build-websites-from-scratch?ubv=upgrdsbwa).</br>
 The purpose of this project is to demonstrate understanding of HTML, CSS(flex box) and the ability to translate wireframes into responsive UI
 
 ## Tech used
